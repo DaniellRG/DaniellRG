@@ -17,7 +17,7 @@ Me considero una persona curiosa, autodidacta y comprometida con el aprendizaje 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniellRG&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=DaniellRG&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Snake
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>

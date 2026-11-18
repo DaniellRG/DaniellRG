@@ -19,6 +19,5 @@ Me considero una persona curiosa, autodidacta y comprometida con el aprendizaje 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # Snake
 <p align = "center">
-	![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 	<img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>

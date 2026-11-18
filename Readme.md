@@ -1,4 +1,4 @@
-# 💫 About Me:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 👋 ¡Hola! Soy Desarrollo de Software, apasionado por la programación y la tecnología.
 Disfruto desarrollar soluciones y poner en práctica mis habilidades de programación. Cuento con conocimientos en Python, C# y MySQL 
 además de experiencia académica en desarrollo web utilizando HTML, CSS, JavaScript y Vue.js.

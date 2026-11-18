@@ -19,3 +19,7 @@ Me considero una persona curiosa, autodidacta y comprometida con el aprendizaje 
 [![](https://visitcount.itsvg.in/api?id=DaniellRG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>

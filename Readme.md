@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25px">¡Hola! Soy Desarrollo de Software, apasionado por la programación y la tecnología.
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="20px">¡Hola! Soy Desarrollo de Software, apasionado por la programación y la tecnología.
 Disfruto desarrollar soluciones y poner en práctica mis habilidades de programación. Cuento con conocimientos en Python, C# y MySQL 
 además de experiencia académica en desarrollo web utilizando HTML, CSS, JavaScript y Vue.js.
 He adquirido conocimientos en programación, bases de datos, redes informáticas, mantenimiento de equipos de cómputo y herramientas de control de versiones como Git y GitHub.

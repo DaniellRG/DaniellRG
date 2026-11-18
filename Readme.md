@@ -1,5 +1,10 @@
 # 💫 About Me:
-Ingeniero de Sistemas con experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas. Durante mi formación, he trabajado en proyectos académicos y personales que combinan habilidades técnicas en programación, gestión de sistemas y bases de datos, demostrando mi capacidad para adaptarme a nuevos desafíos y aprender rápidamente. Me apasiona la innovación tecnológica y busco oportunidades donde pueda aplicar mis conocimientos en desarrollo de software, ingeniería de sistemas y optimización de procesos para contribuir al éxito de proyectos innovadores, dinámicos y desafiantes. Mi enfoque colaborativo, mi capacidad para resolver problemas de manera eficiente y mi disposición para trabajar en equipos diversos me permiten integrarme efectivamente en entornos profesionales.
+👋 ¡Hola! Soy Daniel, estudiante de Desarrollo de Software, apasionado por la programación y la tecnología.
+Disfruto desarrollar soluciones y poner en práctica mis habilidades de programación. Cuento con conocimientos en Python, C# y MySQL 
+además de experiencia académica en desarrollo web utilizando HTML, CSS, JavaScript y Vue.js.
+A lo largo de mi formación técnica he adquirido conocimientos en programación, bases de datos, redes informáticas, mantenimiento de equipos de cómputo y herramientas de control de versiones como Git y GitHub.
+Me considero una persona curiosa, autodidacta y comprometida con el aprendizaje continuo. Me gusta enfrentar nuevos retos, explorar tecnologías y desarrollar proyectos que me permitan mejorar mis habilidades.
+Actualmente, busco seguir creciendo como desarrollador de software, fortalecer mis conocimientos y ampliar mi experiencia en el desarrollo de aplicaciones y soluciones tecnológicas.
 
 
 ## 🌐 Socials:

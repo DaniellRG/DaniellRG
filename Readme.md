@@ -20,5 +20,5 @@ Me considero una persona curiosa, autodidacta y comprometida con el aprendizaje 
 # Snake
 <p align = "center">
 	![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
